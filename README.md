@@ -189,15 +189,5 @@ return 0;
 }
 ```
 
-# Output:
-1.)
-
-
-
-
-
-
-
-
 # Conclusion
 We learnt to use for loop, while loop and nested for loop.
