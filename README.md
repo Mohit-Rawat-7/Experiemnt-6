@@ -189,5 +189,15 @@ return 0;
 }
 ```
 
+# Output:
+1.) ![image](https://github.com/user-attachments/assets/3ef5fb43-7ddf-4dcf-82a0-998405117a10)
+2.) ![image](https://github.com/user-attachments/assets/da055ab4-441a-4360-8acf-0bd2d53ca259)
+3.) ![image](https://github.com/user-attachments/assets/94d8977b-32e3-44ab-81e2-a1cf840d23ee)
+4.) ![image](https://github.com/user-attachments/assets/e9fc778e-b506-4dce-92cf-a7481f15b025)
+5.) ![image](https://github.com/user-attachments/assets/19a3d031-f498-4a5b-94da-1f5d42c20ced)
+6.) ![image](https://github.com/user-attachments/assets/402c77fb-aaaa-4500-9929-b70156f7c4d8)
+7.) ![image](https://github.com/user-attachments/assets/3654bcd9-c821-4dc4-979d-6338079f6fa2)
+8.) ![image](https://github.com/user-attachments/assets/92ec92ab-bc40-487f-946a-01d108b7763c)
+
 # Conclusion
 We learnt to use for loop, while loop and nested for loop.
